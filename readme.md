@@ -6,7 +6,7 @@ From inside a new empty project folder
 
 ````sh
 git init .
-git remote add origin https://github.com/JayHoltslander/https-locally-nodejs
+git remote add origin https://github.com/JayHoltslander/instant-https
 git pull origin master
 ````
 

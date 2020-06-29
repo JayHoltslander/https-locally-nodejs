@@ -1,4 +1,4 @@
-A simple https local server.
+A simple https local server at https://localhost:4443.
 
 ## Install
 
@@ -11,7 +11,10 @@ $ npm install
 $ node server.js
 ````
 
-## View
-
-- https://localhost:4443
-
+## Alternative Run
+````sh
+chmod +x serve.sh
+````
+````
+./serve.sh
+````

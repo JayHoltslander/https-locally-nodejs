@@ -1,15 +1,17 @@
-A Simple https run on locally.
+A simple https local server.
 
-![Screenshot](screenshot.png)
+## Install
 
-## Get started
+````sh
+$ npm install
+````
 
-```
-$ yarn
+## Run
+````sh
 $ node server.js
-```
+````
 
-## Confirm
+## View
 
 - https://localhost:4443
 

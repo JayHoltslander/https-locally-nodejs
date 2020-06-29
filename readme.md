@@ -23,7 +23,7 @@ $ node server.js
 
 ## Option 2. (All-in one: Clone, Install, and Run)
 ````sh
-git init . && git remote add origin https://github.com/JayHoltslander/https-locally-nodejs && git pull origin master && npm install && node server.js
+git init . && git remote add origin https://github.com/JayHoltslander/instant-https && git pull origin master && npm install && node server.js
 ````
 
 ## Alternative Run

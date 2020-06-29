@@ -11,6 +11,7 @@ git pull origin master
 ````
 
 ### Install
+You'll need Node.js and NPM first.
 
 ````sh
 $ npm install

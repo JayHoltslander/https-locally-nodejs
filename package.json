@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "https-localhost": "^4.5.2"
+    "https-localhost": "^4.5.2",
+    "open": "latest"
   },
   "devDependencies": {},
   "scripts": {

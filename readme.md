@@ -1,14 +1,29 @@
-A simple https local server at https://localhost:4443.
+Effortless https local server at https://localhost:4443 in under 5 seconds.
 
-## Install
+## Option 1. (Step by Step)
+### Download
+From inside a new empty project folder
+
+````sh
+git init .
+git remote add origin https://github.com/JayHoltslander/https-locally-nodejs
+git pull origin master
+````
+
+### Install
 
 ````sh
 $ npm install
 ````
 
-## Run
+### Run
 ````sh
 $ node server.js
+````
+
+## Option 2. (All-in one: Clone, Install, and Run)
+````sh
+git init . && git remote add origin https://github.com/JayHoltslander/https-locally-nodejs && git pull origin master && npm install && node server.js
 ````
 
 ## Alternative Run

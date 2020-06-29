@@ -17,3 +17,8 @@ httpsLocalhost.getCerts().then(certs => {
         console.log("Server running at https://localhost:" + port)
     })
 })
+
+const open = require('open');
+(async () => {
+	await open('https://localhost:' + port, {app: ['google chrome', '--incognito']});
+})();

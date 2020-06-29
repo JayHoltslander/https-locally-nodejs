@@ -1,4 +1,4 @@
-Effortless https local server at https://localhost:4443 in under 5 seconds.
+Effortless https local server at https://localhost:4443 in under 5 seconds. Includes AMP boilerplate welcome page.
 
 ## Option 1. (Step by Step)
 ### Download
